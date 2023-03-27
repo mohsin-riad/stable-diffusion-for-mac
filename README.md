@@ -27,3 +27,14 @@ sh ~/stable_diffusion_run.sh
 ```
 
 > to stop localhost/127.0.0.1 users need to type `ctrl+c` in the terminal
+
+<br>
+
+## References
+
+- [stable-diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Apple SD](https://github.com/apple/ml-stable-diffusion)
+
+<hr>
+
+> **Author**: [Mohsin Riad](https://www.linkedin.com/in/mohsin-riad/)
