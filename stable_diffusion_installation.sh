@@ -19,6 +19,7 @@ cd stable-diffusion-webui/models/Stable-diffusion
 # Download the Model Checkpoint
 echo ">> Download the Model Checkpoint"
 curl -LJO https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+curl -LJO https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned.ckpt
 # Chage Directory
 echo ">> Change directory"
 cd ~/documents/Stable-diffusion/stable-diffusion-webui
