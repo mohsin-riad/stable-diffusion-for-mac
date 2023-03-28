@@ -29,6 +29,13 @@ sh ~/stable_diffusion_run.sh
 > to stop localhost/127.0.0.1 users need to type `ctrl+c` in the terminal
 
 <br>
+<hr>
+
+## Online Service via google drive/colab
+
+- [Lunch on Google Colab](https://colab.research.google.com/drive/1xsw7LXEEj6kRfiLqVtQnWcjRX3lCAhet?usp=sharing)
+
+<br>
 
 ## References
 
