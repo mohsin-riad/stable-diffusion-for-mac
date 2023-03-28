@@ -37,4 +37,11 @@ sh ~/stable_diffusion_run.sh
 
 <hr>
 
-> **Author**: [Mohsin Riad](https://www.linkedin.com/in/mohsin-riad/)
+## Issues
+
+- [main issue on macs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussion-4630416)
+- [1](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussioncomment-4569536)
+- [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussioncomment-4561038)
+- [3- MacOs catelina-1](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussioncomment-4591464)
+- [4- MacOs catelina-2](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussioncomment-4926527)
+- [5](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5461#discussioncomment-5125114)
