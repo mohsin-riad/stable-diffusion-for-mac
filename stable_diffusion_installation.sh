@@ -1,4 +1,6 @@
 #!/bin/bash
+# Install Xcode
+sudo xcode-select --reset
 # Install Homebrew
 echo ">> Install Homebrew"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
